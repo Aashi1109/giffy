@@ -4,9 +4,16 @@
 
 Application to create gifs from video files easily and smoothly.
 
+## Live preview of application
+
+- Home page of application
+  ![img_1.png](img_1.png)
+- Gif generating page
+  ![img.png](img.png)
+
 ## How to use the application
 
-## Development setup
+### Development setup
 
 - It contains separate client and server modules for efficient generation of gifs.
 - Client module is created using Vite + React + TS. Requires environment variable to work.
@@ -36,3 +43,5 @@ docker compose up
 ```
 
 - `Make sure redis is up before running it`
+- After running the docker command UI of the application can be accessed at
+  `https:<host ip>:<port>/`
