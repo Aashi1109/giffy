@@ -1,0 +1,29 @@
+services:
+  giffy-client:
+    build:
+      context: C:\Data\Coding\internship\video-gif-generator\client
+    container_name: giffy-client
+    image: aashishpal09/giffy-client:1.0.0
+    ports:
+      - "3000:3000"
+    depends_on:
+      giffy-server:
+        condition: service_healthy
+    env_file:
+      - C:\Data\Coding\internship\video-gif-generator\client\.env.prod
+
+  giffy-server:
+    build:
+      context: C:\Data\Coding\internship\video-gif-generator\server
+    container_name: giffy-server
+    image: aashishpal09/giffy-server:1.0.0
+    ports:
+      - "5000:5000"
+      - "5001:5001"
+    env_file:
+      - C:\Data\Coding\internship\video-gif-generator\server\.env.prod
+    depends_on:
+      redis:
+        condition: service_healthy
+    volumes:
+      - ./logs:/app/dist/logs
