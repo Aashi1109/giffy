@@ -45,3 +45,23 @@ docker compose up
 - `Make sure redis is up before running it`
 - After running the docker command UI of the application can be accessed at
   `https:<host ip>:<port>/`
+
+## For running things locally
+
+- To run client
+
+```shell
+cd client && npm run dev
+```
+
+- To run the server
+
+```shell
+cd server && npm run dev
+```
+
+- To run json-server for temporary acting as database
+
+```shell
+cd server && npx json-server db.json --port <some port>
+```
