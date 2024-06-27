@@ -1,7 +1,6 @@
 import axios from "axios";
 import { MonitorDown } from "lucide-react";
 import TooltipWrapper from "./TooltipWrapper";
-import { convertToGif } from "@/lib/helpers";
 
 const VideoDownloader = ({
   videoUrl,
@@ -21,7 +20,7 @@ const VideoDownloader = ({
       });
 
       const videoBlob = new Blob([response.data], { type: mimeType });
-      await convertToGif(videoBlob, filename);
+      // await convertToGif(videoBlob, filename);
       const link = document.createElement("a");
       link.href = URL.createObjectURL(videoBlob);
       link.download = filename;
