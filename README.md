@@ -1,4 +1,4 @@
-# Giffy 1.0.0
+# Giffy 1.0.1
 
 ## Description
 
