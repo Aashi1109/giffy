@@ -6,8 +6,8 @@ export interface ITask {
   outputs: {
     id: number;
     text: string;
-    video: { path: string; mimeType: "video/mp4"; base64: string };
-    audio: { path: string; mimeType: "audio/mp3"; base64: string };
+    video: { path: string; mimeType: "video/mp4" };
+    audio: { path: string; mimeType: "audio/mp3" };
   }[];
 }
 

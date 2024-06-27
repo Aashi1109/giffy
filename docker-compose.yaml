@@ -3,7 +3,7 @@ services:
     build:
       context: C:\Data\Coding\internship\video-gif-generator\client
     container_name: giffy-client
-    image: aashishpal09/giffy-client:1.0.0
+    image: aashishpal09/giffy-client:1.0.1
     ports:
       - "3000:3000"
     depends_on:
@@ -16,7 +16,7 @@ services:
     build:
       context: C:\Data\Coding\internship\video-gif-generator\server
     container_name: giffy-server
-    image: aashishpal09/giffy-server:1.0.0
+    image: aashishpal09/giffy-server:1.0.1
     ports:
       - "5000:5000"
       - "5001:5001"
@@ -26,4 +26,4 @@ services:
       redis:
         condition: service_healthy
     volumes:
-      - ./logs:/app/dist/logs
+      - ./logs:/app/logs

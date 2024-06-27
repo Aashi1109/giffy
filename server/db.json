@@ -2041,6 +2041,1991 @@
         }
       ],
       "uploadStatus": "InProgress"
+    },
+    {
+      "id": "17ba0b87-9510-45a6-8fd5-db397af2b7a8",
+      "status": "Failed",
+      "originalFile": "C:\\Data\\Coding\\internship\\video-gif-generator\\server\\uploads\\17ba0b87-9510-45a6-8fd5-db397af2b7a8\\6b3702eb-fa9e-426b-b108-e877a02237d1",
+      "outputs": [
+        {
+          "id": 0,
+          "text": " What's up?",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/image/upload/v1719483306/GiffyAPI/17ba0b87-9510-45a6-8fd5-db397af2b7a8/revxysgqfrhuovt0ody7.gif",
+            "mimeType": "image/gif"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719483303/GiffyAPI/17ba0b87-9510-45a6-8fd5-db397af2b7a8/jugxybwbvpkhs53wrbpn.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 1,
+          "text": " I'm looking to hire someone.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/image/upload/v1719483314/GiffyAPI/17ba0b87-9510-45a6-8fd5-db397af2b7a8/civr5pyicvw9n9ok164v.gif",
+            "mimeType": "image/gif"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719483314/GiffyAPI/17ba0b87-9510-45a6-8fd5-db397af2b7a8/am3s7rcsvydvr5z3q7do.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 2,
+          "text": " So I've got a cool Giphy ranking system.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/image/upload/v1719483342/GiffyAPI/17ba0b87-9510-45a6-8fd5-db397af2b7a8/bvlfuqh6cfjufqbbafug.gif",
+            "mimeType": "image/gif"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719483318/GiffyAPI/17ba0b87-9510-45a6-8fd5-db397af2b7a8/rjv0psqnra5v7sfwqxil.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 3,
+          "text": " This GIF of me has 7 million views saying welcome to India.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/image/upload/v1719483376/GiffyAPI/17ba0b87-9510-45a6-8fd5-db397af2b7a8/k5i79f76mjdzp6t9us2e.gif",
+            "mimeType": "image/gif"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719483354/GiffyAPI/17ba0b87-9510-45a6-8fd5-db397af2b7a8/c1v1jecd5untd2dl8g5o.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 4,
+          "text": " And I want a lot more GIFs of myself.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/image/upload/v1719483386/GiffyAPI/17ba0b87-9510-45a6-8fd5-db397af2b7a8/dwj5rsjzhcjqyqa7cp67.gif",
+            "mimeType": "image/gif"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719483383/GiffyAPI/17ba0b87-9510-45a6-8fd5-db397af2b7a8/yxmtskctiwuxexfouocs.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 5,
+          "text": " I want to be able to take all of my YouTube videos and every video ever",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/image/upload/v1719483423/GiffyAPI/17ba0b87-9510-45a6-8fd5-db397af2b7a8/jr0ttq83tcmpc4vbqwvw.gif",
+            "mimeType": "image/gif"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719483395/GiffyAPI/17ba0b87-9510-45a6-8fd5-db397af2b7a8/n2utdoaw6emvrjkhql3j.mp3",
+            "mimeType": "audio/mp3"
+          }
+        }
+      ],
+      "uploadStatus": "Failed"
+    },
+    {
+      "id": "d29d47b5-ef5c-4dc6-87e6-84094689d717",
+      "status": "Completed",
+      "originalFile": "C:\\Data\\Coding\\internship\\video-gif-generator\\server\\uploads\\d29d47b5-ef5c-4dc6-87e6-84094689d717\\4826734b-f32d-4a75-a7fb-6065fc70e673",
+      "outputs": {},
+      "uploadStatus": "Completed"
+    },
+    {
+      "id": "03e04f52-d656-4f0d-a0db-0b0ec51aa937",
+      "status": "Completed",
+      "originalFile": "C:\\Data\\Coding\\internship\\video-gif-generator\\server\\uploads\\03e04f52-d656-4f0d-a0db-0b0ec51aa937\\4fbb7c7c-60c7-4151-b716-07fd67cfcd03",
+      "outputs": [
+        {
+          "id": 0,
+          "text": " What's up?",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484592/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/wzmqi97zaokjjcxk9fhh.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484591/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/qknda1bulgbkwgzsmsbq.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 1,
+          "text": " I'm looking to hire someone.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484594/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/veu6ovpucinvja7evoag.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484594/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/zl69zd7tffjqhnxzszjv.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 2,
+          "text": " So I've got a cool Giphy ranking system.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484598/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/jousnebqveuayqcmemr1.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484598/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/i7agzyafhvd5bkwxhadl.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 3,
+          "text": " This GIF of me has 7 million views saying welcome to India.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484602/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/xmbnkigsmcmbw7cebsmq.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484602/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/yilx0d8nrplurvlcce7c.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 4,
+          "text": " And I want a lot more GIFs of myself.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484604/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/vdbmkciksgtekdptexxf.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484604/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/tt78mrxtsu9fcsujlihn.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 5,
+          "text": " I want to be able to take all of my YouTube videos and every video ever",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484607/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/oi9j1r9jvkhlr9u1anlb.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484607/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/qjwjrx0mxvemogjfhe74.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 6,
+          "text": " and have it turned into automatic GIFs.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484611/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/hjghn7oacqxqlnib4o69.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484611/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/lt5bpcelfjgzs2jybief.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 7,
+          "text": " So, you know, basically it should go through.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484616/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/sjxqugrnd180sqppzxdk.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484615/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/lhaztkn4lazxy1srzrns.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 8,
+          "text": " Imagine you took this video.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484619/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/aidkr2wbvrov9pfkbu1u.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484619/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/dsn9uulfubjwj2l5weoq.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 9,
+          "text": " This would be an example one.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484622/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/deoxpzxp7ghdyfr5eafu.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484622/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/e3p8y5xwt8pmo2luhoe9.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 10,
+          "text": " It would take the transcription, it would auto caption it,",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484627/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/qtuekpzmw88acmkzskdz.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484625/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/mxfxoinhve7pkdqgpmzk.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 11,
+          "text": " and then it would segment it out just by uploading one main video.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484633/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/gop62bhpmucmtnqrsuk1.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484630/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/a28tepprwovqtebv39z3.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 12,
+          "text": " So in order to make that the test directly on this video, I'm going to make some GIFs.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484644/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/sqar3onhpskwp7sdgimy.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484639/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/j3fjevqpxmhsuiugh7yt.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 13,
+          "text": " I love you.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484647/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/kuuobc5yyvjgrgktgzcs.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484647/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/ky9ftlqh1k4llifpdbbl.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 14,
+          "text": " Okay.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484649/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/dvjqxvql8bucxrgmh13u.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484649/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/rwpa8w6ooykzfsvtfxaw.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 15,
+          "text": " Grand rising.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484653/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/vt9mu2d0rsllsymrrmrt.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484653/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/izz03t3rgtjjog4s517l.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 16,
+          "text": " Good vibes to all.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484655/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/papdig3oh9wohkhumhku.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484655/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/rpbdlvkvqda7wxo6rpzf.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 17,
+          "text": " Stay based.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484658/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/gkrq28bpztinhm05kez1.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484658/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/w7psi4bccrx8geigykns.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 18,
+          "text": " Thumbs up.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484661/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/ucepbfuxuowtnv9ghrok.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484661/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/oxsnokk3ohsw6bihabor.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 19,
+          "text": " Thumbs down.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484664/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/bye56q1wnkrka509avzy.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484664/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/l0sutpl9rxog7unree7a.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 20,
+          "text": " I'm okay.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484666/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/mpqbodkmk0oj6qiclbqo.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484666/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/b1f8xizf4hatn7d9ksa8.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 21,
+          "text": " Happy Monday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484669/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/lnqmojkgphafggtybtf8.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484668/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/ektplt6t5chhx44nxwtz.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 22,
+          "text": " Happy Tuesday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484675/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/qzdfgkhcgkh9mood43zt.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484672/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/dc3e0jttaqiyhimp8or4.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 23,
+          "text": " Happy Wednesday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484680/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/gvrvifh9hph7vebekbk8.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484677/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/wdlryc5yfdhnhozhqpqu.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 24,
+          "text": " Happy Thursday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484689/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/opfdw5w40olewkrr3pvu.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484685/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/naknajcgkm7dwd4datuq.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 25,
+          "text": " Happy Friday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484700/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/rkijuctimxdxhry6ujau.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484694/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/y29tswgztfsfjx9ubfbl.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 26,
+          "text": " And a good New Year's Eve to everyone.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484709/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/j6jea7kpk5w0xpn1xpot.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484707/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/wiureyou8bdqqhuv05gn.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 27,
+          "text": " And so basically it should choose where to section off each GIF.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484718/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/gyfr8mwmrmyegve79ysd.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484717/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/g7jsl9wibmklamv84tov.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 28,
+          "text": " It should be pretty obvious.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484722/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/imyjrkwxx2moraq2fab4.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484722/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/lekfg6dtqsximfenfkrm.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 29,
+          "text": " You'll potentially need to first run this through Whisper transcription service.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484727/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/hwbpexzqcswvqhccf0jb.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484727/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/i8kfs4fl8xf9x3a9yzkb.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 30,
+          "text": " Then you would",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484729/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/faucqcjjztjtolj9tchc.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484730/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/mcf194qoywpqgckyfl4r.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 31,
+          "text": " section off each part of the transcript, I think,",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484739/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/e7329nm1c8nrvrf6qf8g.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484733/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/uysehzj7nij2s4fpnoqs.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 32,
+          "text": " in order to make the cuts and maybe use FFMPEG.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484751/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/qap992nlce0wop7vqfir.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484744/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/o2tkgvcqcrskcyp2v1yp.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 33,
+          "text": " I don't know.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484755/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/y2wkfd09fg6kqgm0sdzc.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484754/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/s7xzkwvmuprp2v5ustai.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 34,
+          "text": " I don't develop.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484758/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/x1qzp13k4cbfn8giryfp.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484757/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/i0noqbiehxhufm2drhxb.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 35,
+          "text": " I'm just coming up with ideas off the fly.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484766/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/caftoi1wt7esiqundrlw.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484761/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/bfkriswahs3hfpw0cud2.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 36,
+          "text": " But whoever finishes that, you have a job with us.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484776/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/kdkkihl4gytbvr13wvav.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484769/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/dloyv1q1thwbvel1myrz.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 37,
+          "text": " There's no interview.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484784/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/icxped192qtxpcgccukz.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484779/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/vrlmekishh3axlantgu3.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 38,
+          "text": " We don't look at your resume.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484790/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/b6rnsa0agwmkpwrhnhlu.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484787/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/ygcluhqrktptkxz3eny9.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 39,
+          "text": " People go to college for four years and do tons of tests and all these things",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484799/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/zylhavpo74gdrrsq22k3.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484795/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/cskkflfaygbwruwmivjw.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 40,
+          "text": " to get a piece of paper that gets you a job.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484804/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/t1udtjktd0udubqng53h.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484802/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/vlkzrv6ufkt6restrfxh.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 41,
+          "text": " In this case, you get a job just by doing this one assignment.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484814/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/d36lvjxvjnkb7xfcicsa.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484807/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/ijlynk9jdv28b7230avt.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 42,
+          "text": " And then after you complete it, I've got more ideas on the future features.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484822/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/hw9hzbb2cxlumm51sk5h.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484819/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/fdcjtjkwn24ucf1z402z.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 43,
+          "text": " And I will continue to flush this out.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484825/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/zgmc9ntbayaqzf3kpjt6.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484824/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/k5qy4npfourtmdhuam3l.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 44,
+          "text": " But starting off with just making allowing uploading a video to get a bunch of GIFs.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484829/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/utginpi4ndjpgernglbr.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484828/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/jpcoqmg62afbvrfhboot.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 45,
+          "text": " Thank you.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484831/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/bxhljkb3bmm5ey6xu1sd.mp4",
+            "mimeType": "image/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719484831/GiffyAPI/03e04f52-d656-4f0d-a0db-0b0ec51aa937/xd5rh1u1bguvqiryprhf.mp3",
+            "mimeType": "audio/mp3"
+          }
+        }
+      ],
+      "uploadStatus": "Completed"
+    },
+    {
+      "id": "17e113ca-294d-442a-aade-3a59b93acf68",
+      "status": "InProgress",
+      "originalFile": "C:\\Data\\Coding\\internship\\video-gif-generator\\server\\uploads\\17e113ca-294d-442a-aade-3a59b93acf68\\3f3f7863-df6f-4d38-8876-dffcc1549f22",
+      "outputs": [
+        {
+          "id": 0,
+          "text": " What's up?",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487884/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/w3kxswnwjsbjlnkxqmtw.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487883/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/rvpnn7olckp34rky2jkn.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 1,
+          "text": " I'm looking to hire someone.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487886/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/hhr07oye7tjzqj2wqxab.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487886/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/dmlkyer72ukawvwldecl.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 2,
+          "text": " So I've got a cool Giphy ranking system.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487891/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/hoapmws23hfdmoeloyce.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487889/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/fqkmbdqzkaal3iso79sw.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 3,
+          "text": " This GIF of me has 7 million views saying welcome to India.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487895/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/k6eysbwbouz7lw2hxc1z.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487894/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/dx9pi0vwjmmmgknm7bsu.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 4,
+          "text": " And I want a lot more GIFs of myself.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487898/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/pbzrmipgprbqcesexydg.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487898/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/ceoqlgz3unswrstqrxgt.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 5,
+          "text": " I want to be able to take all of my YouTube videos and every video ever",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487903/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/q4tdgf7aqbaj2je4bkbr.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487901/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/h3ezvr4s7cehpfrqavw3.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 6,
+          "text": " and have it turned into automatic GIFs.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487906/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/cuuofdvgcbeq190lb3iv.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487905/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/vbwmfdqyklumjfifzgdw.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 7,
+          "text": " So, you know, basically it should go through.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487910/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/hmuxlodihtbxownihume.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487910/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/kavusybkg81gvgmqnhc4.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 8,
+          "text": " Imagine you took this video.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487912/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/gqjy4qdeeudhdyoqfolo.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487912/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/wqkc39xqsdob2dh3ayr2.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 9,
+          "text": " This would be an example one.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487914/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/xgwjj1xpznjzjh8kefxx.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487914/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/owykmgmvopfnkfbtvpon.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 10,
+          "text": " It would take the transcription, it would auto caption it,",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487916/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/jm6wgqqa3wjdsvv6alss.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487917/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/dgwey7ib65uanscjmhjz.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 11,
+          "text": " and then it would segment it out just by uploading one main video.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487919/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/zsqfoojhvpgtuts22en5.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487919/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/hnqnnmfvad90syrqpwfw.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 12,
+          "text": " So in order to make that the test directly on this video, I'm going to make some GIFs.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487925/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/k75pjw6pufs5saowqmbh.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487925/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/q005yzhgkpb53cknucp9.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 13,
+          "text": " I love you.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487928/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/hor4b2p1jy2pc4hyqkl5.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487928/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/admaq6bp9z2gpjhst1ze.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 14,
+          "text": " Okay.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487930/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/iim1h7vlyyqeviup5zdh.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487930/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/sdl5wm5zb7wxtmotrtsg.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 15,
+          "text": " Grand rising.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487932/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/d6mejgrz8cvwh1rsbiiw.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487932/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/ibvgbjyk9coozuczwibc.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 16,
+          "text": " Good vibes to all.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487934/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/bcjdvqqg8ydmnqb2f07e.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719487934/GiffyAPI/17e113ca-294d-442a-aade-3a59b93acf68/uaqt7ihteelu493glgzr.mp3",
+            "mimeType": "audio/mp3"
+          }
+        }
+      ],
+      "uploadStatus": "InProgress"
+    },
+    {
+      "id": "74ff35c4-b122-4c2e-bee1-7a12c58289f6",
+      "status": "Completed",
+      "originalFile": "C:\\Data\\Coding\\internship\\video-gif-generator\\server\\uploads\\74ff35c4-b122-4c2e-bee1-7a12c58289f6\\e4c8b969-fd30-41bd-b94f-f7f6dd4c4bc7",
+      "outputs": [
+        {
+          "id": 0,
+          "text": " What's up?",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488079/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/tnuwmtvhfuoikew8nlxz.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488078/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/f8jvycfodycinlk0e22d.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 1,
+          "text": " I'm looking to hire someone.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488081/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/y0bfkcyx4dlklfrk7fwm.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488081/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/yfaqnygzp874kwv0hwqg.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 2,
+          "text": " So I've got a cool Giphy ranking system.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488084/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/fw3bqafahha0mpku3p0q.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488083/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/r75ndup6s2au7kl8ofxg.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 3,
+          "text": " This GIF of me has 7 million views saying welcome to India.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488086/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/rbdf9oxenpm3nshkmibn.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488086/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/ax0gjlobyw1tzfiha9cg.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 4,
+          "text": " And I want a lot more GIFs of myself.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488088/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/mvm8ml9m9avpclwu1ayh.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488088/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/ajgesd1htt2vjfnq6xxw.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 5,
+          "text": " I want to be able to take all of my YouTube videos and every video ever",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488092/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/esdiznjgwj8hmparauzs.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488092/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/tqentgdsyxumcydemdhb.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 6,
+          "text": " and have it turned into automatic GIFs.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488096/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/vyjm8qvbhruqubi6f4uu.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488095/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/mueah2fwk6jqb9bfb5at.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 7,
+          "text": " So, you know, basically it should go through.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488100/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/tj2rkn9k7aaru6d6ax3r.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488099/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/hg8vzjs3ghdiw8rzibvd.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 8,
+          "text": " Imagine you took this video.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488103/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/luap0xfsbazxhran16tr.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488103/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/ma7gqwtr5zqhihvg3hct.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 9,
+          "text": " This would be an example one.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488105/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/e9bjzzjlr0rvybm2wi1i.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488105/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/kdl3wl2cmznnmoe3oosw.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 10,
+          "text": " It would take the transcription, it would auto caption it,",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488108/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/f30o2hhbaqxhu1orx6de.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488107/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/viyl7qsoxj0hzlfuozug.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 11,
+          "text": " and then it would segment it out just by uploading one main video.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488112/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/a8dxfd3kprnijcgswnnb.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488111/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/cls6vgc2wcqrmknfixgv.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 12,
+          "text": " So in order to make that the test directly on this video, I'm going to make some GIFs.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488124/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/pxyj1r5dkci4z5zbhs0s.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488117/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/orkf6ofbulztku0mftym.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 13,
+          "text": " I love you.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488129/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/xrfo2hph0uitkcxshrx8.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488126/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/qlugfmoy3xns6vg1aa6s.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 14,
+          "text": " Okay.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488144/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/l5yyzys3j3tngejomkkj.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488143/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/ytwzwrm4oaohrr9avdtc.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 15,
+          "text": " Grand rising.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488147/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/egc5k9fr5krne6pyq2vf.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488147/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/ik4u7vhto7szjip4dkz6.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 16,
+          "text": " Good vibes to all.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488149/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/cjwvy7krj7bmnflnig1i.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488149/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/bsal3lonahs6tzye9kxg.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 17,
+          "text": " Stay based.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488151/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/bueeblgkkmddnecmiobv.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488151/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/m1nqmdq0z9nlybcnbdem.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 18,
+          "text": " Thumbs up.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488153/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/rzk2gw5k5uo52le5lwsj.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488153/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/w4jiojhfitpx247l5vpb.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 19,
+          "text": " Thumbs down.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488156/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/b2pwkjh1ceptzd5dbwkj.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488155/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/o5cobsrefnzpnxkaog7z.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 20,
+          "text": " I'm okay.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488157/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/zvvcl6qce8d92yduhqnd.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488157/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/nekzucckpxf8jquk7eiu.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 21,
+          "text": " Happy Monday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488160/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/e3noskuj3e4wkwl3tg1i.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488160/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/lksae1aldwktd6grexqu.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 22,
+          "text": " Happy Tuesday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488163/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/t3r5ihs29yemlotexkqv.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488162/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/g31r6o2w5abh0v4ibxkm.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 23,
+          "text": " Happy Wednesday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488165/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/q1xik0mbsayees1rvped.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488165/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/ppzxvotjxuqzuf0jgtds.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 24,
+          "text": " Happy Thursday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488168/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/zdaem5lpolbshfbd6zll.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488167/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/aiq3hzt6jxrfmj6gsrwf.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 25,
+          "text": " Happy Friday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488171/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/egbagvbtpwjdw7xrbkel.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488171/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/jlf4owjrngikqeod5pvf.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 26,
+          "text": " And a good New Year's Eve to everyone.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488175/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/nu7y1xq1z4yaa9757hy6.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488174/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/gzaan4i7hmm0rw1igmww.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 27,
+          "text": " And so basically it should choose where to section off each GIF.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488182/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/civtzdxkd5ajbfqbofhi.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488179/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/vujiylsuj7a3jvyskt3j.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 28,
+          "text": " It should be pretty obvious.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488186/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/co1qyzbull1c3lrpzykz.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488185/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/xgaubo4ays0shhnqv2l1.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 29,
+          "text": " You'll potentially need to first run this through Whisper transcription service.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488194/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/rxhbvolzhl7dm9bczbis.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488189/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/jxxvlhjcg9tekapefl40.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 30,
+          "text": " Then you would",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488198/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/htnwby5wjjf2bn0zblu9.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488197/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/qpnkaaagc8mb6k61glrt.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 31,
+          "text": " section off each part of the transcript, I think,",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488203/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/alrkq9cn4zzgl0fl0hnd.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488202/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/kg6lbzcirse3l9tnjwbh.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 32,
+          "text": " in order to make the cuts and maybe use FFMPEG.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488208/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/k5mg5mdmdrbnjwxknafb.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488207/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/twyftc1vtiukbivkqjhp.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 33,
+          "text": " I don't know.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488210/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/csag7s1cyec4alkddwee.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488210/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/pvf84jtq2fyvg8yje4ui.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 34,
+          "text": " I don't develop.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488212/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/nunbmc49iutf8cuhm31f.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488212/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/tk469jp5fais1teochqf.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 35,
+          "text": " I'm just coming up with ideas off the fly.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488214/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/qprqgy9b34eglisqtb8x.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488214/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/wcmvxvynohpjdqmqduce.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 36,
+          "text": " But whoever finishes that, you have a job with us.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488218/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/u1cxvhxamd61hwnbzkco.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488217/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/yiit9ibvyn2qvkhz9hbq.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 37,
+          "text": " There's no interview.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488220/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/qvfqqszv8aklmx7uh55r.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488220/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/vwmyd7dajqaxyndq3nhf.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 38,
+          "text": " We don't look at your resume.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488222/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/ohqdrjagf3zc3dm7jhdw.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488222/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/wyv3fn7t3tyj9slxyzxl.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 39,
+          "text": " People go to college for four years and do tons of tests and all these things",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488226/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/vh09xxmi8ar4karpcjys.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488225/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/zzxzdfvxy6x84xmmnxjx.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 40,
+          "text": " to get a piece of paper that gets you a job.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488228/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/mgszljiqszai0hz136am.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488228/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/jfaduhqredufstefogwn.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 41,
+          "text": " In this case, you get a job just by doing this one assignment.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488231/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/hq3ud0jbnvsqjdimybnv.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488230/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/dywwzvw1igtinzp25dzs.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 42,
+          "text": " And then after you complete it, I've got more ideas on the future features.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488235/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/qebollb2bhf3qutnyiw4.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488234/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/nm5lcuc9brxooxgxph7t.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 43,
+          "text": " And I will continue to flush this out.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488237/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/oclaerh5ndwlnpemh1sg.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488237/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/xpeoijrjdpffngyfrfg9.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 44,
+          "text": " But starting off with just making allowing uploading a video to get a bunch of GIFs.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488240/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/dpnbbg4pthbkruvzdl3i.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488240/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/mr8jgqbbrrgszk8ycbmb.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 45,
+          "text": " Thank you.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488242/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/nbvrseyouhyi05zlvafz.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488242/GiffyAPI/74ff35c4-b122-4c2e-bee1-7a12c58289f6/vfdft3yzrwhnpg37hbed.mp3",
+            "mimeType": "audio/mp3"
+          }
+        }
+      ],
+      "uploadStatus": "Completed"
+    },
+    {
+      "id": "79417d23-d53f-4cec-b161-ed112395c215",
+      "status": "InProgress",
+      "originalFile": "C:\\Data\\Coding\\internship\\video-gif-generator\\server\\uploads\\79417d23-d53f-4cec-b161-ed112395c215\\e4c8b969-fd30-41bd-b94f-f7f6dd4c4bc7",
+      "outputs": null
+    },
+    {
+      "id": "0009a604-c8c1-4e63-a713-6f458ee19994",
+      "status": "Completed",
+      "originalFile": "C:\\Data\\Coding\\internship\\video-gif-generator\\server\\uploads\\0009a604-c8c1-4e63-a713-6f458ee19994\\e4c8b969-fd30-41bd-b94f-f7f6dd4c4bc7",
+      "outputs": [
+        {
+          "id": 0,
+          "text": " What's up?",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488244/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/klswd4qfkomnqfa0vegd.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488244/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/lll44nympkc1mvqhkfyd.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 1,
+          "text": " I'm looking to hire someone.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488245/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/chtidmfi57tt36ay4umm.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488245/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/odlhdstvpljtnpaavvzc.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 2,
+          "text": " So I've got a cool Giphy ranking system.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488248/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/zhg6aadl1u0qdqmae3mc.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488249/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/odpkpt61z7vs0uo6mrkb.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 3,
+          "text": " This GIF of me has 7 million views saying welcome to India.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488251/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/vsmbwxmvcbtmubcx1nw7.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488251/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/m2krvphz27wxbrlry4a9.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 4,
+          "text": " And I want a lot more GIFs of myself.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488253/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/hc63nqgjqvrtu02js4c7.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488253/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/ge1qltjiy0iyh8itsyqe.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 5,
+          "text": " I want to be able to take all of my YouTube videos and every video ever",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488256/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/fipnbqkkmpje3wudhuzw.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488256/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/tjwhhl0d3sa4rdkot7ab.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 6,
+          "text": " and have it turned into automatic GIFs.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488259/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/dbmdjtdmar6s2kwu9xdt.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488259/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/h9uxaxdecbhbc3s4wcle.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 7,
+          "text": " So, you know, basically it should go through.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488262/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/lnhx64gyhwfppqrmi7qo.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488262/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/vn0fvfitw1ly2opgmvht.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 8,
+          "text": " Imagine you took this video.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488264/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/ugppyqh0g9ngjkiu8mip.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488264/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/aotocork3wvguvdwicr2.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 9,
+          "text": " This would be an example one.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488266/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/qakyf12bp4ydbj8zdwfp.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488266/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/p9vkct3cosvekibk33bt.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 10,
+          "text": " It would take the transcription, it would auto caption it,",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488268/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/uagxf18e7mpepcbvrkj0.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488269/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/fjbcqr6rcpztcoligyxi.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 11,
+          "text": " and then it would segment it out just by uploading one main video.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488271/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/q72iiztrgrgnwwvsrzq9.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488271/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/rrvtoaaldwh1wppqaxto.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 12,
+          "text": " So in order to make that the test directly on this video, I'm going to make some GIFs.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488276/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/g9pbz67mqn0rpuam7viv.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488275/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/qmlm1c1ks4zo4d0j2kfb.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 13,
+          "text": " I love you.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488278/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/lzgd0h396qnpjuwsx3ir.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488278/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/pviraylgal1skiszt8tq.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 14,
+          "text": " Okay.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488280/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/cpw6fhmffuld37hfg9tc.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488280/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/y1afq3nw3u5uwxn1whtz.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 15,
+          "text": " Grand rising.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488287/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/pncr579gkbew9bp9mhhh.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488287/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/wdowj1nruoelt8qtubnd.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 16,
+          "text": " Good vibes to all.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488290/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/pnmkp1sxiuejfvs2ck0a.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488289/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/rsmmgcp5fmoui3az9k1n.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 17,
+          "text": " Stay based.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488293/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/drnx7ausjwksiynyuwnu.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488292/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/mmxgcsz3k7fkdxtmtnf1.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 18,
+          "text": " Thumbs up.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488297/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/ywkrwpyzxcxfi6nbnndk.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488296/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/tj32exhvbqnipwajrhzm.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 19,
+          "text": " Thumbs down.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488300/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/ppojzeranqmhfhjhhdtq.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488300/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/hrvt1ijtv5kock3s3ylr.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 20,
+          "text": " I'm okay.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488303/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/tyasqpowwitfnhzqnkuv.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488303/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/crems3lovznhqivr1m0j.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 21,
+          "text": " Happy Monday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488306/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/msvbdufbx9l4pfaiesx6.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488306/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/xmp6wnasgzdkxbcue0qx.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 22,
+          "text": " Happy Tuesday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488309/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/axc8lwpvzhq1erxbboic.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488309/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/ajd6tezwps3t3kiz8zlg.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 23,
+          "text": " Happy Wednesday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488312/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/moknekn4g0gqertfchgf.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488312/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/zrrgxgzxtveorslbp0oi.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 24,
+          "text": " Happy Thursday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488317/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/hguykns0g00bnpzereui.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488317/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/pml8kbcqnyl1wlztja48.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 25,
+          "text": " Happy Friday.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488321/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/nsk2kalnt3xizfzujjxv.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488321/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/zyjup8nn8siandrfaji5.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 26,
+          "text": " And a good New Year's Eve to everyone.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488325/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/hr5myhrkhuzxcdcz7bk5.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488325/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/jecoqthj9lzykd6dh5h4.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 27,
+          "text": " And so basically it should choose where to section off each GIF.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488332/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/c6frvuoqcgqr7eyxnzim.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488332/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/rfwezz1gxfyir1fmtbmh.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 28,
+          "text": " It should be pretty obvious.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488336/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/cmtq2xhqchnzo9o3u4tu.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488335/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/clordtnqxdfslt5dumfz.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 29,
+          "text": " You'll potentially need to first run this through Whisper transcription service.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488341/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/z3xlzwxlwbtdhibhxtdc.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488341/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/jfi4huvgz02xmb1ew0dx.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 30,
+          "text": " Then you would",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488343/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/ogafwsmnv3vddmuxyujx.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488344/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/capu8nmpzi2blyw1zqjk.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 31,
+          "text": " section off each part of the transcript, I think,",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488351/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/abbilhvy95pbldxawze1.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488346/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/dlmbvdbwvpqadkvr0us4.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 32,
+          "text": " in order to make the cuts and maybe use FFMPEG.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488358/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/ij8ayund6ovuc82jn2gj.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488355/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/q3yt0mdmdbn7le5jagyn.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 33,
+          "text": " I don't know.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488361/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/g1cuepd9nnfweavpf93l.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488360/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/myye6dhn5rqc7e34gbd5.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 34,
+          "text": " I don't develop.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488363/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/easmjibkaolevablvw7e.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488363/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/ii3wsogwl6kmvfqdfirb.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 35,
+          "text": " I'm just coming up with ideas off the fly.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488366/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/chgnfvevvs1ebmwyxpxa.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488365/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/ww0tej3ypu4xffbvng4r.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 36,
+          "text": " But whoever finishes that, you have a job with us.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488369/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/v4dhblle5rvgpgwb7evr.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488368/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/wk237dpz5xoqs7mlrvne.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 37,
+          "text": " There's no interview.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488371/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/bny4txvtfv1bupd2qhyx.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488371/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/eyw1kddt8sx8guu6bynf.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 38,
+          "text": " We don't look at your resume.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488374/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/adg008mp0gppgja1wllj.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488374/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/eobpy5nebj4eejdras2n.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 39,
+          "text": " People go to college for four years and do tons of tests and all these things",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488377/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/xxilfggocp40e7te1ldb.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488376/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/yxha3pdjioxhwjj4eoxn.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 40,
+          "text": " to get a piece of paper that gets you a job.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488379/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/hgeulq83sbwxnky4j53e.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488379/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/ghqod9yle3pwpabdl68z.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 41,
+          "text": " In this case, you get a job just by doing this one assignment.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488382/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/jejq2jnvk2kgkbqoxkr1.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488382/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/gp1s0u92mmg4mlq1pxzu.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 42,
+          "text": " And then after you complete it, I've got more ideas on the future features.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488387/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/pojwcccpi5u1k9gxqy9y.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488386/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/lqht6jittxsijbu3c6mv.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 43,
+          "text": " And I will continue to flush this out.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488389/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/ujkpzeujwfmzettrtqgz.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488389/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/cveos6ild57mlh11vcsn.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 44,
+          "text": " But starting off with just making allowing uploading a video to get a bunch of GIFs.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488392/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/kv1fmdyg48ybftbbmcqj.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488392/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/gkpj6r9mrbccv72eopi4.mp3",
+            "mimeType": "audio/mp3"
+          }
+        },
+        {
+          "id": 45,
+          "text": " Thank you.",
+          "video": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488394/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/iwtegewcehg79eor1xi8.mp4",
+            "mimeType": "video/mp4"
+          },
+          "audio": {
+            "path": "https://res.cloudinary.com/aashish1109/video/upload/v1719488394/GiffyAPI/0009a604-c8c1-4e63-a713-6f458ee19994/yltu6ojds6fkukhx58o8.mp3",
+            "mimeType": "audio/mp3"
+          }
+        }
+      ],
+      "uploadStatus": "Completed"
     }
   ]
 }

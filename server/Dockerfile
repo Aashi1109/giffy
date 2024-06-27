@@ -41,7 +41,7 @@ RUN apk add --no-cache curl
 COPY --from=builder /app/dist .
 COPY --from=deps /app/node_modules ./node_modules
 
-RUN mkdir -p /app/logs && mkdir -p /app/uploads && chown -R server:nodejs /app
+RUN mkdir -p /app/logs && mkdir -p /app/public && mkdir -p /app/uploads && chown -R server:nodejs /app
 
 # Copy the entrypoint script
 COPY entrypoint.sh /app/entrypoint.sh

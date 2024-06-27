@@ -1,6 +1,7 @@
 import { ITask } from "@/types";
 import ReactPlayer from "react-player";
 import AudioDownloader from "./AudioDownloader";
+import GifDownloader from "./GifDownloader";
 import { Card, CardContent } from "./ui/card";
 import VideoDownloader from "./VideoDownloader";
 
@@ -28,11 +29,17 @@ const GifOutputCard = ({ data }: { data: ITask["outputs"][0] }) => {
             filename={text}
             mimeType={video.mimeType as string}
           />
+          <GifDownloader
+            videoUrl={video.path}
+            filename={text}
+            mimeType={video.mimeType as string}
+          />
           <AudioDownloader
             audioUrl={audio.path}
             filename={text}
             mimeType={audio.mimeType}
           />
+
           {/* <TooltipWrapper tooltipText="Delete gif">
             <Trash2
               className="cursor-pointer text-destructive  h-5"

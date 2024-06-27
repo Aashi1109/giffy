@@ -13,6 +13,8 @@ export default function HomePage() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [taskId, setTaskId] = useState<string | null>(null);
   const playerRef = useRef<ReactPlayer>(null);
+  const scrollToContainerRef = useRef<HTMLDivElement>(null);
+
   const { toast } = useToast();
 
   const handleSetVideoUrl = async (videoUrl: string) => {
@@ -46,7 +48,9 @@ export default function HomePage() {
           title: "Hooray! 🎉🎉",
           description: "Sit down while your gifs are on their way",
         });
-
+        if (scrollToContainerRef.current) {
+          scrollToContainerRef.current.scrollIntoView({ behavior: "smooth" });
+        }
         const { taskId } = uploadResponse?.data || {};
         if (taskId) {
           setTaskId(taskId);
@@ -86,23 +90,6 @@ export default function HomePage() {
             />
           </div>
           <div className="flex-1 flex flex-col gap-4 p-4">
-            {/* <div className="grid w-full max-w-sm items-center gap-1.5">
-              <Label htmlFor="name">Gif name</Label>
-              <Input type="name" id="name" placeholder="Something cool ..." />
-            </div>
-
-            <div className="grid w-full max-w-sm justify-start items-center gap-1.5">
-              <Label htmlFor="name">Gif maximum duration</Label>
-
-              <ToggleGroup type="single" className="justify-start">
-                <ToggleGroupItem value="15" className="rounded-md">
-                  15s
-                </ToggleGroupItem>
-                <ToggleGroupItem value="30" className="rounded-md">
-                  30s
-                </ToggleGroupItem>
-              </ToggleGroup>
-            </div> */}
             <div className="flex-center gap-4">
               <Button
                 type="button"
@@ -134,6 +121,8 @@ export default function HomePage() {
           generateGif={handleGenerateGif}
         />
       )}
+
+      <div ref={scrollToContainerRef}></div>
     </div>
   );
 }

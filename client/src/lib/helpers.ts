@@ -1,6 +1,9 @@
 import config from "@/config";
 import { ITaskCreateResponse, ITaskGetResponse } from "@/types";
 
+import { createFFmpeg, fetchFile } from "@ffmpeg/ffmpeg";
+import { saveAs } from "file-saver";
+
 export const waitFor = (delay: number) => {
   return new Promise((resolve) => {
     setTimeout(() => {
@@ -40,6 +43,7 @@ export const uploadVideoForGifGeneration = async (
   formdata: FormData
 ): Promise<ITaskCreateResponse | null | undefined> => {
   try {
+    ("use server");
     const uploadResponse = await fetch("/api/giffytask", {
       method: "POST",
       body: formdata,
@@ -58,6 +62,7 @@ export const getTaskData = async (
   taskId: string
 ): Promise<ITaskGetResponse | null | undefined> => {
   try {
+    ("use server");
     const response = await fetch(`/api/giffytask/${taskId}`);
     if (response.ok) {
       return await response.json();
@@ -65,5 +70,52 @@ export const getTaskData = async (
     return null;
   } catch (error) {
     console.error(`Error getting task ${error}`);
+  }
+};
+
+/**
+ * Converts a video file to a GIF with optional scaling.
+ *
+ * @param {string | Blob} videoUrl - URL or Blob of the video file to be converted.
+ * @param {string} fileName - Name for the output GIF file.
+ * @param {number} [width=320] - Width for the output GIF. Defaults to 320 pixels.
+ * @param {number} [height=-1] - Height for the output GIF. Defaults to -1 to maintain aspect ratio.
+ * @returns {Promise<void>} - A promise that resolves when the conversion is complete.
+ *
+ * @example
+ * Convert video to GIF with default dimensions
+ * convertToGif('path/to/video.mp4', 'output');
+ *
+ * @example
+ * Convert video to GIF with custom dimensions
+ * convertToGif('path/to/video.mp4', 'output', 320, 240);
+ */
+export const convertToGif = async (
+  videoUrl: string | Blob,
+  fileName: string,
+  width: number = 320,
+  height: number = -1 // -1 to maintain aspect ratio
+): Promise<void> => {
+  try {
+    const ffmpeg = createFFmpeg({ log: false });
+    await ffmpeg.load();
+
+    await ffmpeg.FS("writeFile", fileName, await fetchFile(videoUrl));
+    await ffmpeg.run(
+      "-i",
+      fileName,
+      "-vf",
+      `scale=${width}:${height}`,
+      "-f",
+      "gif",
+      `${fileName}.gif`
+    );
+    const data = ffmpeg.FS("readFile", `${fileName}.gif`);
+    const url = URL.createObjectURL(
+      new Blob([data.buffer], { type: "image/gif" })
+    );
+    saveAs(url, `${fileName}.gif`);
+  } catch (error) {
+    console.error(`Error converting video to gif: ${error}`);
   }
 };

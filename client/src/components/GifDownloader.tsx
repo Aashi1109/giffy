@@ -1,9 +1,10 @@
-import axios from "axios";
-import { MonitorDown } from "lucide-react";
-import TooltipWrapper from "./TooltipWrapper";
 import { convertToGif } from "@/lib/helpers";
+import axios from "axios";
+import { ImagePlayIcon, Loader2 } from "lucide-react";
+import { useState } from "react";
+import TooltipWrapper from "./TooltipWrapper";
 
-const VideoDownloader = ({
+const GifDownloader = ({
   videoUrl,
   filename,
   mimeType,
@@ -12,8 +13,10 @@ const VideoDownloader = ({
   filename: string;
   mimeType: string;
 }) => {
-  const downloadVideo = async () => {
+  const [isConverting, setIsConverting] = useState(false);
+  const downloadGif = async () => {
     try {
+      setIsConverting(true);
       const response = await axios({
         url: videoUrl,
         method: "GET",
@@ -22,22 +25,22 @@ const VideoDownloader = ({
 
       const videoBlob = new Blob([response.data], { type: mimeType });
       await convertToGif(videoBlob, filename);
-      const link = document.createElement("a");
-      link.href = URL.createObjectURL(videoBlob);
-      link.download = filename;
-      document.body.appendChild(link);
-      link.click();
-      document.body.removeChild(link);
     } catch (error: any) {
       console.error(`Error downloading video: ${error?.message}`);
+    } finally {
+      setIsConverting(false);
     }
   };
 
   return (
-    <TooltipWrapper tooltipText="Download video">
-      <MonitorDown className="cursor-pointer h-5" onClick={downloadVideo} />
+    <TooltipWrapper tooltipText="Download gif">
+      {isConverting ? (
+        <Loader2 className="h-5 animate-spin" />
+      ) : (
+        <ImagePlayIcon className="cursor-pointer h-5" onClick={downloadGif} />
+      )}
     </TooltipWrapper>
   );
 };
 
-export default VideoDownloader;
+export default GifDownloader;
